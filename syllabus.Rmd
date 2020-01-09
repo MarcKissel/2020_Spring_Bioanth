@@ -193,8 +193,17 @@ Professional courtesy and sensitivity are especially important with respect to i
 
 ```{marginfigure, echo= TRUE}
 
-Pease see the course handouts for details on these projects
+Please see the course handouts for details on these projects
 ```
+## Reading response
+
+For each course reading answer the questions provided.
+```{marginfigure, echo= TRUE}
+
+You can find the questions for each article [here](https://marckissel.github.io/2020_Spring_Bioanth/course_reading_questions/Questions.html)
+```
+
+We will collect them at the end of the class and provide feedback. 
 
 ## Labs & group work
 
@@ -208,9 +217,7 @@ A handful of in-class quizzes used to assess learning
 
 4 essay questions throughout the semester. Will be shared for peer-comments. Then pick one and resubmit based on comments
 
-## Reading response
 
-For each course reading answer the questions provided. We will collect them at the end of the class and provide feedback. 
 
 ## UnEssay
 
