@@ -23,4 +23,5 @@ options(htmltools.dir.version = FALSE)
 
 [link to text-based class syllabus!](https://marckissel.github.io/2020_Spring_Bioanth/syllabus.html)
 
+[link to visual syllabus](https://marckissel.github.io/2020_Spring_Bioanth/syllabus/Spring%20Anthropology%202230_%20Biological%20Anthropology%20(1).pdf)
   
