@@ -21,6 +21,6 @@ options(htmltools.dir.version = FALSE)
 
 ## Welcome to the course page for Anthropology 2230
 
-[link to class syllabus!](https://marckissel.github.io/2020_Spring_Bioanth/syllabus.html)
+[link to text-based class syllabus!](https://marckissel.github.io/2020_Spring_Bioanth/syllabus.html)
 
   
