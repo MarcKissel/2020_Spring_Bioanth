@@ -37,6 +37,8 @@ Hi! This is the draft version of our course website. Feel free to look around. M
 
 [Link to class reading questions](https://marckissel.github.io/2020_Spring_Bioanth/course_reading_questions/Questions.html)
 
+[Link to class essay prompts](https://marckissel.github.io/2020_Spring_Bioanth/essay_prompts/essay_prompts.html)
+
 [My personal website](https://marckissel.netlify.com/)
 
 [A short post on why I don't like grades](https://marckissel.netlify.com/post/going-gradeless/)
