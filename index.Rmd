@@ -21,9 +21,21 @@ options(htmltools.dir.version = FALSE)
 
 ## Welcome to the course page for Anthropology 2230
 
+![](https://i1.wp.com/www.filthymonkeymen.com/wp-content/uploads/2013/07/chauvet-hands-e1531962042281.jpg)  
+
+Most of the class reading are on AsULearn due to copyright issues but you can use this page to find all of the other files and assignments
+
+
 [link to text-based class syllabus!](https://marckissel.github.io/2020_Spring_Bioanth/syllabus.html)
+```{marginfigure, echo= TRUE, fig.width = 500, fig.height =200}
+
+![](https://external-preview.redd.it/eDjGHWjs_u0bNsc2dwrgfvRa182iKySAHAIImzay-C8.jpg?auto=webp&s=3f82f6647467e52c94c316fa418a6943614ce454)
+```
 
 [link to visual syllabus](https://marckissel.github.io/2020_Spring_Bioanth/syllabus/Spring%20Anthropology%202230_%20Biological%20Anthropology%20(1).pdf)
 
 [link to class reading questions](https://marckissel.github.io/2020_Spring_Bioanth/course_reading_questions/Questions.html)
-  
+
+
+
+
