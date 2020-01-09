@@ -1,17 +1,13 @@
 ---
-title: "Syllabus"
-author: "Marc Kissel"
-date: "1/8/2020"
+title: "Syllabus for Anthropology 2230"
 output:
-  tufte::tufte_handout:
-    citation_package: natbib
-    latex_engine: xelatex
   tufte::tufte_html: default
-  tufte::tufte_book:
-    citation_package: natbib
+  tufte::tufte_handout:
+    
     latex_engine: xelatex
-bibliography: skeleton.bib
-link-citations: yes
+  tufte::tufte_book:
+    
+    latex_engine: xelatex
 ---
 
 ```{r setup, include=FALSE}
@@ -35,27 +31,19 @@ This class is a collaboration between all of us. You bring a unique and importan
 
 I am committed to the principle of universal learning. This means that our classroom and interactions should be as inclusive as possible. Mutual respect, civility, and the ability to listen and observe others carefully are crucial to universal learning.
 
-We will all need accommodations. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible and we’ll develop strategies to meet your needs. It is never too late to request accommodation in this class, but let me know as soon as possible.
+# Accommodations
 
-I also encourage you to visit the Office of Disability Services (828-262-3056 or http://ods.appstate.edu). If you need official accommodations, you have a right to have these met. It is the floor, rather than the ceiling, of what you should expect.  
+`r newthought('we all need accommodations')` to help us learn. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible and we’ll develop strategies to meet your needs. It is never too late to request accommodation in this class, but let me know as soon as possible.
+
+if you have any kind of disability, whether apparent or non-apparent, and you need accommodations or alternatives to lectures, assignments, or project, please feel free to contact me to discuss accommodations for your access needs. I welcome suggestions about the format of readings and class discussions that will help make this class accessible to all
+
+I also encourage you to visit the Office of Disability Services (828-262-3056 or http://ods.appstate.edu). If you need official accommodations, you have a right to have these met. **It is the floor, rather than the ceiling, of what you should expect.**  
 
 
 
 # People
 
 ## Dr. Marc Kissel
-
-```{marginfigure, echo= TRUE}
-
-Student Hours:
-  
-Tuesday & Thursday 10-12
-
-Wednesday: 10-11
-
-or by appt.
-use https://calendly.com/marckissel to setup a meeting
-```
 
 
 |         |                      |
@@ -94,7 +82,7 @@ Hunter's role is to help the class run smoothly. If you have any questions about
 * Understand how genetic data informs on human history
 ```{marginfigure, echo= TRUE}
 
-What are your course goals? Think about what you would like to get out of this class
+What are **your** course goals? Think about what you would like to get out of this class
 ```
 
 * Learn how fossil evidence can be used to understand the lifeways of ancient peoples
@@ -104,9 +92,9 @@ What are your course goals? Think about what you would like to get out of this c
 
 ## Title IX Protection 
 
-Gender discrimination, sexual violence, and relationship violence are counter to the values of AppState, which is to promote the well-being of all individuals.. I want to ensure every person is provided support, information, and resources to address any misconduct and prevent its recurrence.
+Gender discrimination, sexual violence, and relationship violence are counter to the values of AppState. I want to ensure every person is provided support, information, and resources to address any misconduct and prevent its recurrence.
 
-If you believe you are experiencing discrimination or any form of harassment including sexual harassment/misconduct/assault, I encourage you to report that behavior. However, please know that if you report to a faculty member or most university employees, they must notify the Title IX Coordinator about the basic facts of the incident.
+If you believe you are experiencing discrimination or any form of harassment including sexual harassment/misconduct/assault, I encourage you to report that behavior. However, please know that if you report to a faculty member such as myself or to most university employees, they must notify the Title IX Coordinator about the basic facts of the incident.
 
 ## Course Materials
 
@@ -114,30 +102,53 @@ If you believe you are experiencing discrimination or any form of harassment inc
 There is no textbook for this class.
 ```{marginfigure, echo= TRUE}
 
-but if you would like a recommendation for a textbook please let me know
+But if you would like a recommendation for a textbook please let me know
 ```
 
-However, there are a lot of assigned readings that can be found on AsULearn. The readings for this class are not easy and might differ from what you are used to. I have a document on AsULearn that talks about how to read a scientific article. If you have any trouble with the articles, bring them up in class. Chances are you are not the only one who is wondering the same thing!
+However, there are a lot of assigned readings, all of which can be found on [AsULearn](https://asulearn.appstate.edu/). The readings for this class are not easy & might differ from what you are used to. If you have any trouble with the articles, bring them up in class. Chances are you are not the only one who is wondering the same thing!
+```{marginfigure, echo= TRUE}
 
-I choose these readings since I think they are interesting and relevant. I may not agree with all of them but i think they each have value in providing a perspective. Some class days will start with having you think about the readings. If you have done the reading that is a great time to partner up with someone who has.
+Jennifer Raff has written a good primer on reading science papers, which you can find [here](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/)
+```
+I choose these readings since I think they are interesting and relevant. I may not agree with all of them but I think they each have value. Most class days will start with having you think about the readings. If you haven't done the reading that is a great time to partner up with someone who has.
 
 
 ## Attendance & late work
 
-If you are absent, you are accountable for material you miss. However, if you need to miss class for health reasons (physical or mental) I understand. You do not need to tell me why you missed class but if something happens that may affect your success in the class feel free to reach out to me if you want to discuss it. I also encourage you to turn in work even if it is late.
+If you need to miss class for health reasons (physical or mental) I understand. We all have days when we feel overwhelmed.
+```{marginfigure, echo= TRUE}
 
-## Accessibility Statement
+It helps to remember that we tend to compare our personal backstory to everyone else's highlight reel.
+```
+You do not need to tell me why you missed class but if something happens that affects your success in the class feel free to reach out to me if you want to discuss it. I also encourage you to turn in work even if it is late. 
 
-if you have any kind of disability, whether apparent or non-apparent, and you need accommodations or alternatives to lectures, assignments, or project, please feel free to contact me to discuss accommodations for your access needs. I also welcome suggestions about the format of readings, lectures, and class discussions that will help make this class accessible to all
+The short answer to how many classes you can miss is as many as you need and as few as you possibly can.
+
+If there is a death in the family or other event please know that you have my sympathies. I won't ask for proof (When I have had traumatic events no one ever asked me for proof ). Rather I will just let you know I am there for you. If you need help let the [Dean of Students](https://deanofstudents.appstate.edu/) know, as they can help in many ways. 
+
+I understand how difficult these times are. Please contact me as soon as possible and I will be happy to discuss the best way to makeup coursework
+
 
 ## Student Hours
 
-These are times that you can come and chat about class topics of other issues of interest to you. If you feel lost or have any questions this is a great time to stop by. Or if you are interested in learning more about anthropology and related fields feel free to swing by. If you can’t meet me at the posted times send me an email and we can work something out
+These are times that you can come and chat about class topics of other issues of interest to you. If you feel lost or have any questions this is a great time to stop by.
+```{marginfigure, echo= TRUE}
+
+Student Hours:
+  
+Tuesday & Thursday 10-12
+
+Wednesday: 10-11
+
+or by appt.
+use https://calendly.com/marckissel to setup a meeting
+```
+Or if you are interested in learning more about biological anthropology and related fields feel free to swing by. If you can’t meet me at the posted times send me an email and we can work something out.
 
 
 ## Technology in the classroom
 
-Cellphones, computers, tablets, and other devices are wonderful ways in which to take notes and engage in the class.  Provided you do not disrupt classmates & continue to participate in class activities, you are welcome to make your own choices regarding laptop and cell phone use.
+Cellphones, computers, tablets, and other devices are wonderful ways in which to take notes and engage in the class.Provided you do not disrupt classmates & continue to participate in class activities, you are welcome to make your own choices regarding laptop and cell phone use.
 
 ## Academic Integrity
 
@@ -149,41 +160,12 @@ For information on the universities policies  see the Academic Integrity website
 And I ask that you trust me.
 
 
-# Assignments and assessment
-
-`r newthought('This course is about qualitative')`
-rather than quantitative assessment. In other words, we focus on learning rather than memorizing. You will get feedback (from both me and fellow students) throughout the semester but I won’t be putting a grade on any assignments. 
-```{marginfigure, echo= TRUE}
-
-This conversation will be shaped over the semester.
-```
-At the end of the class we will meet to talk about what you got out of the class.
-
-
-You will be collaborating with peers on many of the assignments for this course. If you have questions about the various ways collaboration can work, feel free to chat with me at any point.
-
-
-
-## But what is my grade?
-
-`r newthought('Sadly, most of us')` have been conditioned to be worker-learners who are trained to memorize facts and hold back what we really think. Learning and growth has been replaced by the ideas of 'achievement.' We thus value grades over true, real learning. This is not your fault (though plenty of people do blame you). This class is an experiment in actual learning. There are no tests planned (though based on student feedback we will have in-class quizzes that you can use to help assess your own learning). However, this does not mean there is no work. Rather I strive to avoid busy work and turn the classroom into a place of active learning, whether though lecturing, discussing, or reading.  Until I'm the chancellor of AppState grades must be given, though. If at any time you are concerned about your progress please let me know and we will set up a time to talk.
-
-In the end, you will tell me what grade you think you deserve in the class. 
-
-```{marginfigure, echo= TRUE}
-
-I may disagree with you on your final grade and in the end I reserve the right to be the final arbiter 
-```
-If at any time you are concerned about your progress please let me know and we will set up a time to talk.
-
-
-
 
 # Course policies 
 
 ## Class content
 
-This course can involve the use of explicit language and examples of gender and race based violence, and other forms of abuse. Participating may remind you of experiences that you, a friend, or family member may have gone through. If you need support and/or would like to talk to someone about these issues please contact the Counseling Center by phone (828) 262-3180 of go to first floor of the Miles Annas Student Support Building, by the corner of College and Howard Streets. I’d be happy to assist you in accessing any help you need or talking in person
+This course can involve the use of explicit language and examples of gender and race based violence, and other forms of abuse. Participating may remind you of experiences that you, a friend, or family member may have gone through. If you need support and/or would like to talk to someone about these issues please contact the Counseling Center by phone (828) 262-3180 of go to first floor of the Miles Annas Student Support Building, by the corner of College and Howard Streets. I’d be happy to assist you in accessing any help you need or talking in person.
 
 ## Discrimination
 
@@ -206,23 +188,21 @@ The ASU Food Pantry & Free Store is a free resource w/ pantry and personal care 
 
 Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with marginalized populations. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the semester so that I may make appropriate changes to my records and let me know if I fail to address you properly
 
-## Traumatic events
-
-I understand how difficult these times are. Please contact me as soon as possible and I will be happy to discuss the best way to makeup coursework
 
 # Projects
 
+```{marginfigure, echo= TRUE}
+
+Pease see the course handouts for details on these projects
+```
+
 ## Labs & group work
 
-Working hands-on with course material. Build information, labs, infographics, etc to use to learn about BioAnth
+Working hands-on with course material to  build information, labs, infographics, etc to learn about BioAnth
 
 ## Quizzes
 
 A handful of in-class quizzes used to assess learning 
-
-## Personal Assessment
-
-3 times a semester. Will use self-guided form to see how you feel about your work in the class
 
 ## Essay responses
 
@@ -237,8 +217,30 @@ For each course reading answer the questions provided. We will collect them at t
 You choose your own topic and present it how you please (written word, illustrations, music, video, etc.)
 
 
+## Personal Assessment
+
+Done 3 times during the semester. Will use self-guided form to see how you feel about your work in the class
+
+# Final assessment
+
+`r newthought('This course is about qualitative')` rather than quantitative assessment. In other words, we focus on learning rather than memorizing. You will get feedback (from both me and fellow students) throughout the semester but I won’t be putting a grade on any assignments. At the end of the class we will meet to talk about what you got out of the class. 
+
+You will be collaborating with peers on many of the assignments for this course. If you have questions about the various ways collaboration can work, feel free to chat with me at any point.
 
 
+
+## But what is my grade?
+
+`r newthought('Sadly, most of us')` have been conditioned to be worker-learners who are trained to memorize facts, hold back what we really think, and avoid taking risks for fear that it will hurt our grade. Learning has been replaced by the ideas of 'achievement.' We thus value grades over true, real learning. This class is an experiment in actual learning. There are no tests planned.
+```{marginfigure, echo= TRUE}
+
+Based on student feedback we will have in-class quizzes that you can use to help assess your own learning. You can use these to help guide your work in the class
+```
+Rather I strive to avoid busy work and turn the classroom into a place of active learning, whether though lecturing, discussing, or reading. However, this does not mean there is no work. 
+
+`r newthought('At the end of the semester')`, you will tell me what grade you think you deserve in the class. You can use the labs, quizzes, reading prompts, and essays to help you assess your own learning. However, I reserve the right to be the final arbiter of your grade. 
+
+If at any time you are concerned about your progress please let me know and we will set up a time to talk.
 
 
 
