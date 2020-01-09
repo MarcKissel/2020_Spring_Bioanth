@@ -22,6 +22,6 @@ library(tidyverse)
 
 # Prompt 1 (Due on AsULearn on discussion board by Feb 6 at 11:59 PM)
 
-[Details](https://github.com/MarcKissel/2020_Spring_Bioanth/raw/master/course_reading_questions/2020_spring_essay_1.pdf)
+[Details](https://github.com/MarcKissel/2020_Spring_Bioanth/raw/master/essay_prompts/2020_spring_essay_1.pdf)
 
 
