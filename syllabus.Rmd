@@ -230,8 +230,8 @@ You will be collaborating with peers on many of the assignments for this course.
 
 
 ## But what is my grade?
-
-`r newthought('Sadly, most of us')` have been conditioned to be worker-learners who are trained to memorize facts, hold back what we really think, and avoid taking risks for fear that it will hurt our grade. Learning has been replaced by the ideas of 'achievement.' We thus value grades over true, real learning. This class is an experiment in actual learning. There are no tests planned.
+who are trained to memorize facts, hold back what we really think, and avoid taking risks for fear that it will hurt our grade. Learning has been replaced by the ideas of 'achievement.' We thus value grades over true, real learning. This class is an experiment in actual learning. There are no tests planned.
+`r newthought('Sadly, most of us')` have been conditioned to be worker-learners 
 ```{marginfigure, echo= TRUE}
 
 Based on student feedback we will have in-class quizzes that you can use to help assess your own learning. You can use these to help guide your work in the class
