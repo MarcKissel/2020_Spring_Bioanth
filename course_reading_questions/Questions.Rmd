@@ -1,0 +1,29 @@
+---
+title: "Class reading questions"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    
+    latex_engine: xelatex
+  tufte::tufte_book:
+    
+    latex_engine: xelatex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+```{r libraries, echo = FALSE}
+library(tufte)
+library(tidytext)
+library(tidyverse)
+```
+
+# Welcome to Anthropology 2230: Biological Anthropology! 
+
+Questions for class readings
+
+week 1
+
+[Marks, Jon 2009. The Problem of Creationism. in *Why I am Not a Scientist*](https://github.com/MarcKissel/2020_Spring_Bioanth/raw/master/course_reading_questions/01_Marks_2009.pdf)
